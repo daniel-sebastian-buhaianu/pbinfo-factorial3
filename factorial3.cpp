@@ -1,3 +1,4 @@
+// scor 100
 #include <fstream>
 #define MAX_N 100001
 using namespace std;
